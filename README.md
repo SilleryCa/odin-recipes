@@ -1,1 +1,1 @@
-# odin-recipes
+This is the first project to be completed for The Odin Projcet (TOP)
